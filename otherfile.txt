@@ -1,1 +1,1 @@
-this is master ohterfile
+this is otherfile.txt
